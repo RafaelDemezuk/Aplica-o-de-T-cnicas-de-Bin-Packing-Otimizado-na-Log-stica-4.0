@@ -1,0 +1,4 @@
+instancia,otimo,pop_inicial,k,porcentagem,media_bins,melhor_bins,pior_bins,media_tempo_s,validos,invalidos
+u1000_00.txt,399,16,3,20,403,403,403,23.5316,5,0
+u1000_00.txt,399,16,3,35,403,403,403,25.9764,5,0
+u1000_00.txt,399,16,3,50,404.4,404,405,29.3612,5,0

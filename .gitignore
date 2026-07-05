@@ -1,0 +1,24 @@
+# Compiled binaries and build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+a.out
+
+# Project binaries generated locally
+bin_guloso
+Bin_packing_guloso
+Binpacking_genetico
+bin_packing_genetico2
+bin_packing_localsearch
+bin_packing_localsearch2
+bin_packing_localsearch_random2
+Binpacking_localsearchrandom
+msbpp
+msbpp2
+
+# VS Code settings
+.vscode/
