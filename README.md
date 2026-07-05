@@ -1,0 +1,1 @@
+# Aplica-o-de-T-cnicas-de-Bin-Packing-Otimizado-na-Log-stica-4.0
