@@ -1,3 +1,5 @@
+msbpp.cpp
+msbpp2.cpp
 # Compiled binaries and build artifacts
 *.exe
 *.out
